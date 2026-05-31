@@ -1422,4 +1422,4 @@ document.addEventListener('keydown', (e) => {
     }
 });
 
-console.log('Deepware API functionality loaded successfully!'); 
+console.log('Deepware API functionality loaded successfully!');
