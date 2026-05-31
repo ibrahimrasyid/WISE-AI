@@ -3,7 +3,7 @@ let currentFile = null;
 let analysisInProgress = false;
 
 // API Configuration - Using Gemini API Only
-const GEMINI_API_KEY = 'AIzaSyB-DQylCGlSu2CUKZ8TDK-yNuIwqNXsppE'; // Gemini API key
+const GEMINI_API_KEY = 'your_gemini_api_key_here'; // Gemini API key
 const USE_GEMINI_API = GEMINI_API_KEY !== 'your_gemini_api_key_here'; // Check if Gemini API key is available
 const USE_REAL_API = USE_GEMINI_API; // For backward compatibility
 
